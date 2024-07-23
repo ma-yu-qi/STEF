@@ -2,6 +2,7 @@
 
 ## [Paper](https://doi.org/10.1186/s40494-024-01321-2)
 
+### train
 ```python
 python tools/train.py --config configs/textdet/stef/stef_resnet18_fpnc_1200e_dongba.py
 ```
