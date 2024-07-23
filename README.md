@@ -7,4 +7,4 @@
 python tools/train.py --config configs/textdet/stef/stef_resnet18_fpnc_1200e_dongba.py
 ```
 
-### [Reference mmocr](https://github.com/open-mmlab/mmocr)
+### [Reference](https://github.com/open-mmlab/mmocr)
