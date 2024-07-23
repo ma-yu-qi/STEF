@@ -4,4 +4,4 @@
 
 
 
-### [reference](https://github.com/open-mmlab/mmocr)
+### [Reference MMOCR](https://github.com/open-mmlab/mmocr)
